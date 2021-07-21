@@ -3,8 +3,8 @@
 #include<time.h>
 #include<stdbool.h>
 #include<unistd.h>
-#include"board.h"
-#include"game.h"
+#include"board/board.h"
+#include"game/game.h"
 
 int main(int argc, char *argv[]){
     if(argc<2){

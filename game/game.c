@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdbool.h>
-#include"board.h"
+#include"../board/board.h"
 #include"game.h"
 
 void update_board(LangtonAnt *ant){
